@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Victoria Wang 👋
 
-<!--
-**victoriawang0616/VictoriaWang0616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+Front-End Web Development Student learning HTML, CSS, Git, GitHub, and Java programming.
 
-Here are some ideas to get you started:
+I enjoy building websites and programming projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+HTML  
+CSS  
+Git  
+GitHub  
+Java  
+VS Code  
+
+---
+
+## 📂 Projects
+
+🔹 Personal Website  
+https://github.com/VictoriaWang0616/my-first-website  
+
+🔹 Movie Poster Webpage  
+
+🔹 Employee Java Project  
+
+---
+
+## 📫 Contact
+
+Email: Victoriawang0616@gmail.com  
+
+GitHub: https://github.com/VictoriaWang0616
