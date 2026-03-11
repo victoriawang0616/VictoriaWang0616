@@ -45,6 +45,6 @@ GitHub: [VictoriaWang0616](https://github.com/VictoriaWang0616)
 
 ---
 
-## 🐍 GitHub Snake (Optional)
+## 🐍 GitHub Snake
 
-![Snake animation](https://raw.githubusercontent.com/VictoriaWang0616/VictoriaWang0616/output/github-contribution-grid-snake.svg)
+![Snake animation](github-contribution-grid-snake.svg)
